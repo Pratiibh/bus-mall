@@ -1,0 +1,34 @@
+*{
+    background: rgb(3, 68, 31);
+    box-sizing: border-box;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+}
+#busmall-images img {
+    width: 260px;
+    height: 260px;
+}
+
+#busmall-images ul {
+    overflow:hidden;
+}
+
+#busmall-images li {
+    float:left;
+    width: 300px;
+    height: 300px;
+    background: lightseagreen;
+    border: solid rgb(207, 85, 71) 20px;
+}
+
+#busmall-images h2 {
+    text-align:center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
